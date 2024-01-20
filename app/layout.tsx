@@ -21,7 +21,6 @@ export default function RootLayout({
           </Link>
           <p className="text-black">Aspiring Web developer👨‍💻</p>
         </div>
-      </div>
     </header>
   );
 

@@ -14,7 +14,7 @@ module.exports = {
     extend: {
       backgroundImage:{
         'hero':"url('../public/images/hero.jpg')",
-        'hero_mobile':"url('../public/images/hero_mobile.jpg')",
+        'hero-mobile':"url('../public/images/hero_mobile.jpg')",
       },
     },
   },

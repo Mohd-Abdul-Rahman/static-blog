@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
 
   const header = (
-    <header className="text-center bg-slate-700  p-3 my-5 ">
+    <header className="text-center bg-slate-400  p-3 my-5 ">
         <div className="mx-auto my-auto">
           <Link href="/">
             <h1 className="text-xl font-bold text-black">Mohd Abdul Rahman</h1>

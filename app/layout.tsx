@@ -97,7 +97,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className="bg-hero bg-no-repeat bg-cover bg-center bg-fixed">
+      <body className="md:bg-hero_mobile lg:bg-hero xl:bg-hero bg-no-repeat bg-cover bg-center bg-fixed">
 
         <div className="mx-auto max-w-xl px-6 ">
           {header}

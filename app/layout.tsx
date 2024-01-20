@@ -99,7 +99,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-hero bg-no-repeat bg-cover bg-center bg-fixed">
 
-        <div className="mx-auto max-w-2xl px-6 ">
+        <div className="mx-auto max-w-xl px-6 ">
           {header}
           {children}
           {footer}
